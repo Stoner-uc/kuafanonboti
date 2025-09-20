@@ -1,0 +1,23 @@
+# Python kompilyatsiya fayllari
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment fayllari
+.env
+
+# Log fayllar
+*.log
+
+# OS fayllari
+.DS_Store
+Thumbs.db
+
+# IDE fayllari (masalan, PyCharm)
+.idea/
+*.iml
+.vscode/

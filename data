@@ -1,0 +1,6 @@
+anonboxish/
+├─ data/
+│  ├─ logs/
+│  │   └─ bot.log
+│  └─ excel/
+│      └─ talabalar.xlsx
